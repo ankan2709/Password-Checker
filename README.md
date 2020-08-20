@@ -2,4 +2,4 @@
 
 Instructions:
 
-python3 checkmypass.py <your password>
+python3 checkmypass.py "your password"
